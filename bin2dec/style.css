@@ -1,0 +1,51 @@
+.titulo{
+    text-align: center;
+    padding-top: 15px;
+    border-top: 4px solid #7c7;
+    background-color: #efe;
+    color: #050;
+    font-family: OCR A Std, monospace;
+}
+
+.formulario{
+    text-align: center;
+    padding-top: 100px;
+}
+
+.value{
+    padding-top: 10px;
+    text-align: center;
+    font-family: OCR A Std, monospace;
+}
+
+.txtbox{
+    border: none;
+    border-bottom: 2px solid #050;
+    width: 230px;
+}
+
+.btntxt{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 12%;
+}
+
+::placeholder{
+    text-align: center;
+    font-size: medium;
+    color: #767676;
+    font-family: OCR A Std, monospace;
+}
+
+.logo{
+    padding-top: 450px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
